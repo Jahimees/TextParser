@@ -1,0 +1,1 @@
+13:17:27,191 ERROR main FileParser:parseFile:25 - java.io.FileNotFoundException: src\Text.txt (Не удается найти указанный файл): error with trying to read file 
